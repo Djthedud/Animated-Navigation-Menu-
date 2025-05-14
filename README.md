@@ -1,2 +1,5 @@
 # Animated-Navigation-Menu-
-Blue on black gradient buttons
+
+Blue and black gradient navigation bar
+
+Made by: Djthedud | DanielDurstB@gmail.com
